@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Photoblog é um projeto simples para prática de técnicas apresentadas durante as aulas do Explorer.
+O Dragons Dogma é um projeto simples para prática de técnicas de HTML e CSS.
 
 - [Acesse o projeto finalizado, online](https://patrickxfranco.github.io/dragons-dogma-community-central-links/)
 
